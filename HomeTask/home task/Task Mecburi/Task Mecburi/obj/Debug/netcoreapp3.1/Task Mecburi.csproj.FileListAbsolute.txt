@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\obj\Debug\netcoreapp3.1\Task Mecburi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\obj\Debug\netcoreapp3.1\Task Mecburi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\obj\Debug\netcoreapp3.1\Task Mecburi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\obj\Debug\netcoreapp3.1\Task Mecburi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\obj\Debug\netcoreapp3.1\Task Mecburi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\bin\Debug\netcoreapp3.1\Task Mecburi.exe
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\bin\Debug\netcoreapp3.1\Task Mecburi.deps.json
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\bin\Debug\netcoreapp3.1\Task Mecburi.runtimeconfig.json
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\bin\Debug\netcoreapp3.1\Task Mecburi.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\bin\Debug\netcoreapp3.1\Task Mecburi.dll
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\bin\Debug\netcoreapp3.1\Task Mecburi.pdb
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\obj\Debug\netcoreapp3.1\Task Mecburi.dll
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\obj\Debug\netcoreapp3.1\Task Mecburi.pdb
+C:\Users\ASUS\Desktop\Home Task 11\Sinifdeki tasklar\Task Mecburi\Task Mecburi\obj\Debug\netcoreapp3.1\Task Mecburi.genruntimeconfig.cache
